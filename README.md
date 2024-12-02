@@ -1,0 +1,2 @@
+# magdiser
+Magister Degree project
