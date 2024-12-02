@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+passlib[bcrypt]  # Для хешування паролів
+python-jose[cryptography]  # Для створення та перевірки JWT токенів
